@@ -17,5 +17,5 @@ created: 2024-01-31T00:00:00.000-0400
 > 
 > You may work on your portfolio up until Saturday at 11 PM to fill in any gaps that currently exist.
 
-## For Evening Study Study
+## For Evening Study
 - [ ] Make a post [on Notion](https://notion.so) with screenshots or a short video showing that you were able to complete [[Handling User Input|today's lesson]] and [[Handling User Input#Exercise|exercise]].

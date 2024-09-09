@@ -29,7 +29,7 @@ created: 2023-10-18T00:00:00.000-0400
 5. Install Xcode 15
 	- Use [[Xcodes]] to install Xcode 15.
 	  > [!TIP]
->
+	  > 
 	  > Do not install Xcode via the App Store, as using this method means that it will automatically get upgraded when a new version is released (which is not always ideal).
 6. [[Programming with Purpose]]
 	- Please watch the video and respond to the prompts provided.

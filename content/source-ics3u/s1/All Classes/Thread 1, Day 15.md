@@ -12,6 +12,6 @@ created: 2023-11-17T00:00:00.000-0400
 	- Using the template provided in Notion.
 	- How to link to existing pages within your portfolio.
 	- Arranging two Notion windows to make authoring a review easier.
-## Things to do before saturday at 10 PM
+## Things to do before Saturday at 10 PM
 - [ ] Make further progress on tasks, sharing evidence in your portfolio.
 - [ ] Complete your portfolio review.

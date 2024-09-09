@@ -14,6 +14,6 @@ created: 2024-01-25T00:00:00.000-0400
 	- Take notes for key terms that are *italicized* using whatever medium (paper, Notion post) you prefer.
 	- ==Be sure to complete the exercises== as you go.
 
-## For Evening Study Study
+## For Evening Study
 - [ ] Make a post [on Notion](https://notion.so) summarizing the key ideas of [[Lists|today's lesson]].
 	- Be sure to provide visual evidence of having completed the exercises (such as screenshots or short videos).

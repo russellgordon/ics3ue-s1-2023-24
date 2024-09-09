@@ -21,7 +21,7 @@ created: 2024-01-16T00:00:00.000-0400
 > 
 > Continue with the items listed in order, where you left off from yesterday's class.
 
-## For Evening Study Study
+## For Evening Study
 - [ ] Take a maximum of 30 minutes and make progress on one of the items listed above.
 - [ ] Be sure to continue posting on Notion to share progress and ask questions.
 	- Mr. Gordon is still not well enough to be at school but will make an effort to send some replies and feedback through Notion.
