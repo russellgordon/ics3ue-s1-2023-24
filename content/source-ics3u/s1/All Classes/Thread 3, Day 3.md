@@ -14,7 +14,6 @@ created: 2024-03-06T00:00:00.000-0400
 	- Almost every application you use has a database behind it.
 	- Read on to learn what a database is and how to query it (obtain information) from it.
 	> [!NOTE]
->
 	> 
 	> If you have finished the App Design Journal, start on, or continue with, this activity.
 	> 

@@ -1,5 +1,6 @@
 ---
 tags:
+created: 2024-06-10T00:00:00.000-0400
 ---
 When completing [[To-do List App, Pt. 6|part six of the to-do list tutorial series]] you learned how to use the MVVM design pattern to query a single table hosted at Supabase.
 

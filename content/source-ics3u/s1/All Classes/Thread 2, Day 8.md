@@ -12,7 +12,6 @@ created: 2024-01-23T00:00:00.000-0400
 	- Use today's class to complete, or improve and extend, your trading card interface.
 	  
 	> [!TIP]
->
 	> 
 	> Mr. Gordon has "dog-fooded" this suggestion already and here is what he came up with to improve his own Trading Cards:
 	> 

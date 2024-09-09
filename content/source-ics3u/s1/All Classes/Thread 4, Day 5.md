@@ -10,7 +10,6 @@ created: 2024-05-30T00:00:00.000-0400
 1. Optional Tutorial: [[To-do List App, Pt. 9]]
 	- Learn how to add an image to a to-do item and persist that image using the Supabase service.
 	> [!TIP]
->
 	> 
 	> You do not need to complete this tutorial if you will not need to allow users to upload images within your culminating task app.
 1. Culminating Task: Create Static Interfaces

@@ -11,7 +11,7 @@ created: 2023-11-07T00:00:00.000-0400
 	- Reminders activity from Day 10
 	- [[Reproduce a UI|Reproducing an Interface]]
 		> [!IMPORTANT]
->
+		> 
 		> 
 		> Be certain to review the [[Reproduce a UI#Success criteria|success criteria]] before continuing with this task.
 ## Things to do before our next class

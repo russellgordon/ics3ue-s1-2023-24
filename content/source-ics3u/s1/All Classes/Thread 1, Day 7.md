@@ -21,7 +21,7 @@ created: 2023-10-27T00:00:00.000-0400
 	- One of the ways Apple helps their developers provide that consistent look and feel is by offering a wide variety of built-in images that can be used in apps.
 	- Please [download and install](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-5.dmg) the SF Symbols app now. 
 	  > [!TIP]
->
+	  > 
 	  > To use an SF Symbol within a SwiftUI layout, try the following code:
 	  > ```swift
 	  >   Image(systemName: "bolt")
@@ -36,7 +36,7 @@ created: 2023-10-27T00:00:00.000-0400
 	- However, it is additionally useful to have "save points" while you author code.
 	- Mr. Gordon will explain how to *stage* and *commit* your work to save revisions locally.
 	  > [!IMPORTANT]
->
+	  > 
 	  >  As you go forward in this course, *always* commit your work frequently with descriptive messages.
 	  >  
 	  >  This serves as a form of note-taking, makes it easier to debug problems, and if necessary, makes it possible for you to return to a prior version of your code.
@@ -48,7 +48,7 @@ created: 2023-10-27T00:00:00.000-0400
 	- Use [[SwiftUI Views Mastery]] as a reference.
 	- Here is the [starter code discussed in class](https://gist.github.com/lcs-rgordon/3e9812b1dfd2a776137a807bed860db4) and a [[Bento Box Starter Code|screenshot of what it looks like]].
 	  > [!HINT]
->
+	  > 
 	  > Some keywords to look for examples of:
 	  > - foregroundStyle
 	  > - cornerRadius

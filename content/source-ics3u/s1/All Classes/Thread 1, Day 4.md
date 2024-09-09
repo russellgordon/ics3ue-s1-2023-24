@@ -12,7 +12,7 @@ created: 2023-10-23T00:00:00.000-0400
 	- Vocabulary review.
 	- Reviewing various solutions to the exercise from yesterday's class.
 	> [!TIP]
->
+	> 
 	>  Here is [code that exemplifies the idea of embedding one structure inside another](https://gist.github.com/russellgordon/a9be1f533e43085c184428bce46d947b), and here is a [[Nested Structures Example|screenshot comparing that code to the cards]] themselves.
 2. Portfolio: [[Sharing Code]]
 	- Share code, not screenshots of code.
@@ -22,7 +22,7 @@ created: 2023-10-23T00:00:00.000-0400
 4. Concept: Computed Properties
 	- Structures can do more than just store values - they can calculate values as well.
 	> [!TIP]
->
+	> 
 	>  Here is [the code we developed and discussed](https://gist.github.com/russellgordon/df50e7fadd13aec68c5e30a840c9796f) in class, and here is a [[Computed Properties Example|screenshot showing the results]] when the code is run.
 5. Exercise: Describing 2D and 3D Figures
 	- You have been randomly assigned [a 2D or 3D figure to work with](https://www.eqao.com/wp-content/uploads/g9-formula-sheet-academic.pdf).

@@ -3,6 +3,7 @@ draft: false
 draftSectionTwo: false
 enableToc: false
 excludeBacklinks: true
+created: 2023-10-18T00:00:00.000-0400
 ---
 Xcodes is an app to manage the installation of different versions of Xcode:
 

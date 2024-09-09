@@ -16,7 +16,7 @@ created: 2024-01-10T00:00:00.000-0400
 	- A further opportunity to consolidate concepts learned in module 1, and to learn a few new ways to write apps using the features of Xcode.
 	- Chapters 1, 2, and 3 are all good choices to try this week.
 		> [!NOTE]
->
+		> 
 		> Mr. Gordon was an unpaid technical reviewer for these tutorials; they were authored by a team at Apple.
 
 ## Things to do before our next class

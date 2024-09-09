@@ -9,7 +9,7 @@ created: 2023-10-24T00:00:00.000-0400
 1. Exercise: Modelling a Report Card
 	- Create a [[Xcode Playgrounds|new Xcode playground]] named **Report Card Exercise**.
 	- Work with your partner to author a structure that could efficiently store the data shown [[Report Card Example|in this report card]].
-	- Remember: <span style="color:green">**D**on't **R**epeat **Y**ourself</span>
+	- Remember: **D**on't **R**epeat **Y**ourself
 		- Use [strategies we have discussed](https://gist.github.com/russellgordon/a9be1f533e43085c184428bce46d947b) to avoid repeatedly defining similar fields.
 1. Setup: Obtain Digital Copies of Your Books
 	- Follow the instructions given in class to obtain your digital copies of *SwiftUI Views Mastery* and *Working with Data in SwiftUI*.

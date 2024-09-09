@@ -15,7 +15,7 @@ created: 2024-06-12T00:00:00.000-0400
 			- Please, do not alter the template.
 			- See [this exemplar](https://lakefieldcs.notion.site/Culminating-Task-a74824bb7ac44200b3fd620e408bfe3e).
 			> [!IMPORTANT]
->
+			> 
 			> Completing this entry in your portfolio is how your work will be handed in. This must be completed, in full, no later than 11 AM on the date of your end-of-year interview.
 	- Continue building your culminating task app.
 		- Resources that may be useful:

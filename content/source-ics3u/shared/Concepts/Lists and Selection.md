@@ -1,5 +1,6 @@
 ---
 tags:
+created: 2024-01-30T00:00:00.000-0400
 ---
 So far we have made lists that hold a set number of values, like in the Trading Cards app:
 

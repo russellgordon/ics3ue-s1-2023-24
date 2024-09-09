@@ -1,5 +1,6 @@
 ---
 tags:
+created: 2024-01-31T00:00:00.000-0400
 ---
 There is an obvious downside to the current interface of the [[Lists and Selection#Exercise|Guessing Game]] app created in our most recent class:
 

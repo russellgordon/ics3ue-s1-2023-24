@@ -1,5 +1,6 @@
 ---
 tags:
+created: 2023-10-24T00:00:00.000-0400
 ---
 A *view* is a structure in SwiftUI that is used to show something to the user.
 

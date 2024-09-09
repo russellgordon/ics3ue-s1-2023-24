@@ -15,7 +15,7 @@ created: 2023-10-18T00:00:00.000-0400
 4. Install [[Xcodes]]
 	- Xcodes makes it easy to manage the installation of *Xcode*, which is the programming environment we will use this year.
 	  > [!NOTE]
->
+	  > 
 	  > Check your email for an invitation to join the Apple Developer program via Lakefield College School.
 	  > 
 	  > **Please create a new Apple ID using your LCS email address to accept the invitation.**

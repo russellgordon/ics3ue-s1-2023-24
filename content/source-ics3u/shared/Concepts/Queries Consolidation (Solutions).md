@@ -1,6 +1,7 @@
 ---
 excludeFromExplorer: true
 tags:
+created: 2024-04-04T00:00:00.000-0400
 ---
 
 # Querying a Database: Consolidation (Solutions)

@@ -12,11 +12,11 @@ created: 2024-06-03T00:00:00.000-0400
 		- Use your Keynote prototypes as a reference. 
 		- Be sure to use [[SwiftUI Views Mastery]] as a reference while building out static interfaces.
 		> [!TIP]
->
+		> 
 		> If you prefer, rather than making a truly static interface (where data is embedded in views as string literals) you can can instead [[List and Detail Views|store data in arrays and apply abstraction]] (which makes building an app out easier).
 		- Remember to use source control – commit and push your work frequently.
+		  
 		> [!REMINDER]
->
 		> 
 		> Next week, with guidance from Mr. Gordon, you will design, create, and populate your app's database.
 		> 

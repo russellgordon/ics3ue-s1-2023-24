@@ -10,7 +10,6 @@ created: 2024-05-27T00:00:00.000-0400
 1. Tutorial: [[To-do List App, Pt. 8]]
 	- Add some refinements to the app, including the use of a slide-up sheet to show the user interface for adding a new to-do item.
 	> [!TIP]
->
 	> 
 	> In your culminating task app, if your users need to be able to create and save data within your app, then you should complete this tutorial today.
 	> 

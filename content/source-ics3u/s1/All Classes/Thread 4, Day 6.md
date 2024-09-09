@@ -13,7 +13,6 @@ created: 2024-05-31T00:00:00.000-0400
 		- Be sure to use [[SwiftUI Views Mastery]] as a reference while building out static interfaces.
 		- Remember to use source control – commit and push your work frequently.
 		> [!TIP]
->
 		> 
 		> After your static interface is complete, the next step is to create and populate your database. A how-to guide on this topic is forthcoming.
 		> 

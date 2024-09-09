@@ -12,7 +12,7 @@ created: 2024-04-02T00:00:00.000-0400
 		- Almost every application you will write will have a database in use behind the scenes.
 	- Once Mr. Gordon has your post, you can check your work against the solutions – all of which include commentary to explain how they work.
 	> [!NOTE]
->
+	> 
 	> Please do not hesitate to ask Mr. Gordon clarifying questions when checking your solutions.
 2. [[Joining Tables]]
 	- What happens when we want to write a query that needs columns from multiple tables in a database?

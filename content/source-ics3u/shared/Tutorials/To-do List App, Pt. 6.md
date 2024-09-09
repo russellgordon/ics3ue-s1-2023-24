@@ -1,4 +1,5 @@
 ---
+created: 2024-05-22T00:00:00.000-0400
 ---
 In [[To-do List App, Pt. 5|part five]] of this task, you learned about the MVVM design pattern and how it promotes separation of concerns within an app. You set up a Supabase account and created a database to store the to-do list items. Finally, you saw how Supabase sends data from the database over the World Wide Web.
 

@@ -3,6 +3,7 @@ draft: false
 draftSectionTwo: false
 enableToc: true
 excludeBacklinks: true
+created: 2024-01-09T00:00:00.000-0400
 ---
 In some situations, when previewing applications or using the Simulator, Xcode 15.0 would use more computing resources than expected, leading to high CPU usage and excessive battery drain on laptop computers.
 

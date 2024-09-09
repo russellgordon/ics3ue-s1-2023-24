@@ -18,7 +18,7 @@ created: 2024-06-07T00:00:00.000-0400
 				- [Static interface construction, part 2 ](https://youtu.be/23HaaW3zld8)(==new==)
 				- [Making the app interactive using arrays ](https://youtu.be/u1DgK1F3sjM)(==new==)
 				> [!TIP]
->
+				> 
 				> Have a look the chapters in each video – it's probably unlikely that you would want to watch every minute of every video, but it's likely that everyone will find at least one chapter of one of these videos useful.
 
 

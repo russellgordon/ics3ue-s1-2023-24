@@ -21,7 +21,7 @@ created: 2024-03-04T00:00:00.000-0400
 	- What do *you* want to make? Let's discuss...
 	- The goal is to *really think* about ideas, opportunities, problems, or challenges... **please engage with and complete slides two through five**.
 	> [!TIP]
->
+	> 
 	> There will be lots of conversation in this class! Feel free to bounce ideas off of peers, Mr. Gordon... you took this course to learn how to build something, right? Let's dive in to your ideas...
 
 ## Things to do before our next class

@@ -13,7 +13,7 @@ created: 2024-03-05T00:00:00.000-0400
 	- Continue working through the Brainstorm (green) section of this document.
 	- Aim to complete the green section before you leave for March Break.
 	> [!TIP]
->
+	> 
 	> 
 	> Edits during March Break are totally fine, but not required! Sometimes in a new setting (at home with family, out with friends) we get new ideas for a useful app...
 3. Concept: [[Databases]]
@@ -21,7 +21,6 @@ created: 2024-03-05T00:00:00.000-0400
 	- Almost every application you use has a database behind it.
 	- Read on to learn what a database is and how to query it (obtain information) from it.
 	> [!NOTE]
->
 	> 
 	> Please only work on this lesson after you have fully filled in the Brainstorm (green) section of your App Design Journal.
 
