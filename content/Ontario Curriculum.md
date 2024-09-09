@@ -1,1 +1,1 @@
-/Users/russellgordon/Documents/Class Websites/2023-24/ICS3U/S1/quartz/content/source-ics3u/shared/Ontario Curriculum.md
+./source-ics3u/shared/Ontario Curriculum.md
