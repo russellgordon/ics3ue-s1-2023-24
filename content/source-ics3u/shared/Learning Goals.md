@@ -1,7 +1,8 @@
 ---
 excludeFromExplorer: true
+enableToc: false
+excludeBacklinks: true
 ---
-# Learning Goals
 Here are the learning goals for Grade 11 Introduction to Computer Science (ICS3Ue, pre-AP).
 
 For all learning goals, we will engage in further discussion.
